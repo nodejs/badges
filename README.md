@@ -18,8 +18,9 @@ This initiative adopts the general Node.js [Code of Conduct], as well as its own
 
 ## Team
 - [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**, Community Committee Champion
-- [@Tiriel](https://github.com/Tiriel) - **Benjamin Zaslavsky**
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
+- [@ryzokuken](https://github.com/ryzokuken) - **Ujjwal Sharma**
+- [@Tiriel](https://github.com/Tiriel) - **Benjamin Zaslavsky**
 
 [Community Committee]: https://github.com/nodejs/community-committee
 [Open Badges]: https://openbadges.org/get-started/
