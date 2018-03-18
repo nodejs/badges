@@ -12,6 +12,26 @@ These responsibilities include, but are not limited to:
  - Development and Maintenance of badge issuance automation tooling;
  - Production and distribution of stickers, pins, and related products created from content that emerges from this initiative.
 
+## Why
+
+`TODO: Write a little about why this initiative exists in the first place. What is their importance in the Node.js community, and what will they achieve ideally.`
+
+Ref #1: https://github.com/nodejs/badges/pull/1#discussion_r169260407
+
+## How
+
+`TODO: How we plan to automate the process of issuing badges (atleast wherever even remotely feasible).`
+
+Ref #1: https://github.com/nodejs/badges/issues/9#issuecomment-370329299
+
+Ref #2: https://github.com/nodejs/github-bot/issues/168
+
+## Badges
+
+`TODO: Discuss and come with with an initial list of badges and the required qualifications for each. Simultaneously, try making sure these badges are issued automatically as much as possible`
+
+Ref #1: https://github.com/nodejs/badges/issues/8
+
 ## Governance
 This initiative adopts the general Node.js [Code of Conduct], as well as its own
 [Contributing Guidelines].
