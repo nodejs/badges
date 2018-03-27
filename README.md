@@ -17,6 +17,7 @@ This initiative adopts the general Node.js [Code of Conduct], as well as its own
 [Contributing Guidelines].
 
 ## Team
+#### [@nodejs/badges](https://github.com/orgs/nodejs/teams/badges)
 - [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**, Community Committee Champion
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 - [@ryzokuken](https://github.com/ryzokuken) - **Ujjwal Sharma**
